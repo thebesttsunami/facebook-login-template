@@ -3,4 +3,4 @@
 <hr>
 <p>Segala bentuk penyalah gunaan diluar tanggung jawab kami, harap hati2 saat menggunakan kode ini.</p>
   <hr>
-<p>Informasi Selengkapnya:<a href="https://wa.me/6285194996351">WhatsApp</a>
+<p>Informasi Selengkapnya:<a href="https://wa.me/6285194996351"> WhatsApp</a>
